@@ -1,0 +1,15 @@
+.p {
+    background-color: rgb(255, 171, 171);
+}
+.fontsize{
+    font-size: 24px;
+}
+#div1 {
+    color: blue;
+    font-size: 38px;
+}
+#div2 {
+    background-color: lightgreen;
+    font-size: 24px;
+    font-weight: bold;
+}
